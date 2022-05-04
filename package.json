@@ -1,0 +1,20 @@
+{
+  "name": "plantapp",
+  "version": "1.0.0",
+  "description": "嘉应学院植物小程序（uni-app）",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PPPPPPan/PlantApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PPPPPPan/PlantApp/issues"
+  },
+  "homepage": "https://github.com/PPPPPPan/PlantApp#readme",
+  "dependencies": {}
+}

@@ -1,6 +1,7 @@
 unpackage/
 .DS_Store
 node_modules/
+wxcomponents/
 dist/
 npm-debug.log*
 yarn-debug.log*
